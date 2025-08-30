@@ -1,0 +1,8 @@
+## Interface: 110200
+## Title: TinyKeyStoneScreenshot
+## Notes: 大秘境完成后延迟 1 秒自动截图
+## Author: 米代
+## Version: 1.0
+
+embeds.xml
+TinyKeyStoneScreenshot.lua
